@@ -25,14 +25,6 @@ I am a **Data Engineering Specialist** and **Tech Lead** currently orchestrating
 
 ---
 
-### 📊 GitHub Metrics
-
-[![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-psilva&show_icons=true&theme=nord)](https://github.com/alessandro-psilva)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-psilva&layout=compact&theme=nord)](https://github.com/alessandro-psilva)
-
----
-
 ### 👨‍👩‍👧‍👦 Beyond the Code
 When I'm not tuning Spark jobs or architecting data products, I’m a dedicated family man. My "offline" high-priority projects involve traveling with my wife and two kids—usually scouting for the best full-board resorts where recreation and relaxation are the top KPIs.
 
