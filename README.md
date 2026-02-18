@@ -22,6 +22,7 @@ I am a **Data Engineering Specialist** and **Tech Lead** currently orchestrating
 | **Legacy & Systems** | ![Cobol](https://img.shields.io/badge/COBOL-005C92?style=flat-square) ![JCL](https://img.shields.io/badge/JCL-gray?style=flat-square) ![Mainframe](https://img.shields.io/badge/Mainframe-black?style=flat-square) |
 | **Automation** | ![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | **Cloud & Architecture** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Data Mesh](https://img.shields.io/badge/Data_Mesh-005A9C?style=flat-square) ![Medallion](https://img.shields.io/badge/Medallion_Arch-FFD700?style=flat-square&logoColor=black) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-004482?style=flat-square) ![Teradata](https://img.shields.io/badge/Teradata-F96702?style=flat-square) |
+| **Professional Certs** | ![AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900-008AD7?style=flat-square&logo=microsoft&logoColor=white) ![Databricks All Accreditations](https://img.shields.io/badge/Databricks-All_Professional_Accreditations-FF3621?style=flat-square&logo=databricks&logoColor=white) |
 
 ---
 
