@@ -27,7 +27,7 @@ I am a **Data Engineering Specialist** and **Tech Lead** currently orchestrating
 ---
 
 ### 👨‍👩‍👧‍👦 Beyond the Code
-When I'm not tuning Spark jobs or architecting data products, I’m a dedicated family man. My "offline" high-priority projects involve traveling with my wife and two kids—usually scouting for the best full-board resorts where recreation and relaxation are the top KPIs.
+When I'm not tuning Spark jobs or architecting data products, I am a dedicated family man. My "offline" high-priority projects involve spending quality time with my wife and two kids, balancing a high-performance career with what matters most.
 
 ---
 
