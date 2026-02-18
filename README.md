@@ -10,7 +10,7 @@ I am a **Data Engineering Specialist** and **Tech Lead** currently orchestrating
 - **Leadership & Strategy:** Leading technical squads in the transition to Data Mesh, decentralizing data ownership while maintaining rigorous governance and scalability.
 - **Problem Solving at Scale:** Specialist in overcoming business bottlenecks through robust data platforms, with **Azure Databricks** at the core.
 - **Performance Tuning:** Deep expertise in **Apache Spark (PySpark) optimization**, ensuring massive data volumes are processed with maximum efficiency, lowest latency, and cost-effectiveness (**FinOps**).
-- **Legacy to Cloud Integration:** Proven track record in migrating strategic pipelines and building specialized engines for **Mainframe & Teradata** data extraction.
+- **Legacy to Cloud Integration:** Expertise in bridging **Mainframe (Cobol/JCL)** and **Cloud (Azure)** ecosystems, creating specialized engines for high-scale data extraction.
 
 ---
 
@@ -18,18 +18,18 @@ I am a **Data Engineering Specialist** and **Tech Lead** currently orchestrating
 
 | Category | Technologies |
 | :--- | :--- |
-| **Big Data & Processing** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Cloud Infrastructure** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![ADLS](https://img.shields.io/badge/ADLS_Gen2-00377A?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| **Architecture** | **Data Mesh, Medallion Architecture, Delta Lake, ETL/ELT** |
-| **Databases** | **Teradata, PostgreSQL, Redis, NoSQL** |
+| **Data Processing** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Legacy & Systems** | ![Cobol](https://img.shields.io/badge/COBOL-005C92?style=flat-square) ![JCL](https://img.shields.io/badge/JCL-gray?style=flat-square) ![Mainframe](https://img.shields.io/badge/Mainframe-black?style=flat-square) |
+| **Automation** | ![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| **Cloud & Architecture** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) **Data Mesh, Medallion, Delta Lake, Teradata** |
 
 ---
 
 ### 📊 GitHub Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandro-psilva&show_icons=true&theme=nord&include_all_commits=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-psilva&layout=compact&theme=nord" alt="Top Languages" height="150" />
-</p>
+
+[![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-psilva&show_icons=true&theme=nord)](https://github.com/alessandro-psilva)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-psilva&layout=compact&theme=nord)](https://github.com/alessandro-psilva)
 
 ---
 
