@@ -21,7 +21,7 @@ I am a **Data Engineering Specialist** and **Tech Lead** currently orchestrating
 | **Data Processing** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Legacy & Systems** | ![Cobol](https://img.shields.io/badge/COBOL-005C92?style=flat-square) ![JCL](https://img.shields.io/badge/JCL-gray?style=flat-square) ![Mainframe](https://img.shields.io/badge/Mainframe-black?style=flat-square) |
 | **Automation** | ![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| **Cloud & Architecture** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) **Data Mesh, Medallion, Delta Lake, Teradata** |
+| **Cloud & Architecture** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Data Mesh](https://img.shields.io/badge/Data_Mesh-005A9C?style=flat-square) ![Medallion](https://img.shields.io/badge/Medallion_Arch-FFD700?style=flat-square&logoColor=black) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-004482?style=flat-square) ![Teradata](https://img.shields.io/badge/Teradata-F96702?style=flat-square) |
 
 ---
 
